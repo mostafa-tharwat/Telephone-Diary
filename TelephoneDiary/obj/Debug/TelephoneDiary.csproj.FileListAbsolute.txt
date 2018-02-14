@@ -1,0 +1,12 @@
+E:\New folder\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe.config
+E:\New folder\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe
+E:\New folder\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.pdb
+E:\New folder\TelephoneDiary\TelephoneDiary\bin\Debug\MaterialSkin.dll
+E:\New folder\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csprojResolveAssemblyReference.cache
+E:\New folder\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Form1.resources
+E:\New folder\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Properties.Resources.resources
+E:\New folder\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.GenerateResource.Cache
+E:\New folder\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.exe
+E:\New folder\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.pdb
+E:\New folder\TelephoneDiary\TelephoneDiary\bin\Debug\Database.mdf
+E:\New folder\TelephoneDiary\TelephoneDiary\bin\Debug\Database_log.ldf
